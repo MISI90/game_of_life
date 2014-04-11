@@ -1,0 +1,8 @@
+c:\users\michal\documents\visual studio 2010\Projects\game_of_life\game_of_life\bin\Debug\game_of_life.exe
+c:\users\michal\documents\visual studio 2010\Projects\game_of_life\game_of_life\bin\Debug\game_of_life.pdb
+c:\users\michal\documents\visual studio 2010\Projects\game_of_life\game_of_life\obj\x86\Debug\game_of_life.Form1.resources
+c:\users\michal\documents\visual studio 2010\Projects\game_of_life\game_of_life\obj\x86\Debug\game_of_life.Properties.Resources.resources
+c:\users\michal\documents\visual studio 2010\Projects\game_of_life\game_of_life\obj\x86\Debug\game_of_life.csproj.GenerateResource.Cache
+c:\users\michal\documents\visual studio 2010\Projects\game_of_life\game_of_life\obj\x86\Debug\game_of_life.exe
+c:\users\michal\documents\visual studio 2010\Projects\game_of_life\game_of_life\obj\x86\Debug\game_of_life.pdb
+C:\Users\Michal\documents\visual studio 2010\Projects\game_of_life\game_of_life\obj\x86\Debug\game_of_life.csprojResolveAssemblyReference.cache
